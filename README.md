@@ -51,7 +51,7 @@ Criar uma API para Busca de Voos.
 - Precisamos de 1 (um) endpoint em REST que receba o `Aeroporto de Origem`, `Aeroporto de Destino` e `Data do voo` e nos retorna um JSON com todos os voos disponíveis das duas operadoras (UberAir e 99Planes) obedecendo os critérios da busca, ordenados por horário.
 
 - Precisamos de 1 (um) endpoint em REST que nos retorne a lista de todos os aeroportos para o Frontend poder utilizar para popular um SelectBox.
-- Escalas de voo são devem ser exibidas desde que o horário entre os dois voos (o tempo de espera) sejam inferiores a 12h. 
+- Escalas de voo devem ser exibidas desde que o horário entre os dois voos (o tempo de espera) sejam inferiores a 12h. 
 - O número máximo de escalas fica a seu critério.
 - Será avaliado a solução do problema e qualidade do código.
 
