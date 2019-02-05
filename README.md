@@ -19,7 +19,7 @@ Criar uma API para Busca de Voos.
 **Premissas:**
 
 - A API deve ser em Java 8 / Kotlin com SpringBoot ou  C# com .NET Core.
-- Temos um CSV da UberAir e um JSON da 99Planes, ambos com uma lista de voos de cada operadora. Estes dois arquivos que serão a origem inicial dos dados. Eles estão na seguinte estrutura:
+- Temos um [CSV da UberAir](uberair.csv) e um [JSON da 99Planes](99planes.json), ambos com uma lista de voos de cada operadora. Estes dois arquivos que serão a origem inicial dos dados. Eles estão na seguinte estrutura:
 - Não é necessário utilizar banco de dados.
 - Os arquivos contém voos entre as data 10/02/2019 e 18/02/2019
 
