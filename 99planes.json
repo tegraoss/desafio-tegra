@@ -1,0 +1,2405 @@
+[
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-10",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-10",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-10",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-10",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-10",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-10",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "B232X995",
+    "origem": "VIX",
+    "destino": "BSB",
+    "data_saida": "2019-02-10",
+    "saida": "09:20",
+    "chegada": "16:00",
+    "valor": 425.56
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-10",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-10",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-10",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-10",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-10",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-10",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-10",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-10",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-10",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-10",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "Z269N977",
+    "origem": "FLN",
+    "destino": "MCZ",
+    "data_saida": "2019-02-10",
+    "saida": "11:40",
+    "chegada": "17:00",
+    "valor": 532.89
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-10",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-10",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-10",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-10",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-10",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-10",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-10",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-10",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-10",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-10",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-10",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-10",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-10",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-10",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-10",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "H282W903",
+    "origem": "PMW",
+    "destino": "CGH",
+    "data_saida": "2019-02-10",
+    "saida": "09:40",
+    "chegada": "19:40",
+    "valor": 1199.58
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-10",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-10",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-10",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-10",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-10",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-10",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-11",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-11",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-11",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-11",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-11",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-11",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-11",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-11",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-11",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-11",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-11",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "Z269N977",
+    "origem": "FLN",
+    "destino": "MCZ",
+    "data_saida": "2019-02-11",
+    "saida": "11:40",
+    "chegada": "17:00",
+    "valor": 532.89
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-11",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-11",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-11",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-11",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-11",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-11",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-11",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-11",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-11",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-11",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "H282W903",
+    "origem": "PMW",
+    "destino": "CGH",
+    "data_saida": "2019-02-11",
+    "saida": "09:40",
+    "chegada": "19:40",
+    "valor": 1199.58
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-11",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-11",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-11",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-11",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-11",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-11",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-12",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-12",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-12",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "B232X995",
+    "origem": "VIX",
+    "destino": "BSB",
+    "data_saida": "2019-02-12",
+    "saida": "09:20",
+    "chegada": "16:00",
+    "valor": 425.56
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-12",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-12",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-12",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-12",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-12",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-12",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-12",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-12",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-12",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-12",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-12",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-12",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-12",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-12",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-12",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-12",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-12",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "H282W903",
+    "origem": "PMW",
+    "destino": "CGH",
+    "data_saida": "2019-02-12",
+    "saida": "09:40",
+    "chegada": "19:40",
+    "valor": 1199.58
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-12",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-12",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-12",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-13",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-13",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-13",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-13",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "B232X995",
+    "origem": "VIX",
+    "destino": "BSB",
+    "data_saida": "2019-02-13",
+    "saida": "09:20",
+    "chegada": "16:00",
+    "valor": 425.56
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-13",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-13",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-13",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-13",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-13",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-13",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-13",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-13",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-13",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-13",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-13",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-13",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-13",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-13",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-13",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-13",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-13",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-13",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-13",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-13",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-13",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-13",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-13",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-14",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-14",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-14",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-14",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-14",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-14",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-14",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-14",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-14",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-14",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-14",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-14",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-14",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "Z269N977",
+    "origem": "FLN",
+    "destino": "MCZ",
+    "data_saida": "2019-02-14",
+    "saida": "11:40",
+    "chegada": "17:00",
+    "valor": 532.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-14",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-14",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-14",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-14",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-14",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-14",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-14",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-14",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-14",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-14",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-14",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-15",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-15",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-15",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-15",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-15",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "B232X995",
+    "origem": "VIX",
+    "destino": "BSB",
+    "data_saida": "2019-02-15",
+    "saida": "09:20",
+    "chegada": "16:00",
+    "valor": 425.56
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-15",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-15",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-15",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-15",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-15",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-15",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-15",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-15",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-15",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-15",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-15",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-15",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-15",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-15",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-15",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-15",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-15",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-15",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-15",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-15",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-15",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-15",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-16",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-16",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-16",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-16",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-16",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-16",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-16",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-16",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-16",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-16",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-16",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "Z269N977",
+    "origem": "FLN",
+    "destino": "MCZ",
+    "data_saida": "2019-02-16",
+    "saida": "11:40",
+    "chegada": "17:00",
+    "valor": 532.89
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-16",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-16",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-16",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-16",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-16",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-16",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-16",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-16",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-16",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-16",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-16",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-16",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-16",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-16",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-16",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-16",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-16",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-16",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-17",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-17",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-17",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-17",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-17",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-17",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-17",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-17",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "L259Z904",
+    "origem": "MCZ",
+    "destino": "BEL",
+    "data_saida": "2019-02-17",
+    "saida": "08:40",
+    "chegada": "22:00",
+    "valor": 1457.22
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-17",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "X248L909",
+    "origem": "BEL",
+    "destino": "VIX",
+    "data_saida": "2019-02-17",
+    "saida": "10:40",
+    "chegada": "17:20",
+    "valor": 424.17
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-17",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-17",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-17",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "Z269N977",
+    "origem": "FLN",
+    "destino": "MCZ",
+    "data_saida": "2019-02-17",
+    "saida": "11:40",
+    "chegada": "17:00",
+    "valor": 532.89
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-17",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-17",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "W204H993",
+    "origem": "CGH",
+    "destino": "PMW",
+    "data_saida": "2019-02-17",
+    "saida": "08:00",
+    "chegada": "20:40",
+    "valor": 1469.33
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-17",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "X242H996",
+    "origem": "CGH",
+    "destino": "VIX",
+    "data_saida": "2019-02-17",
+    "saida": "12:00",
+    "chegada": "20:00",
+    "valor": 1039.33
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-17",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-17",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-17",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-17",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-17",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "X254P990",
+    "origem": "VCP",
+    "destino": "VIX",
+    "data_saida": "2019-02-17",
+    "saida": "11:20",
+    "chegada": "21:00",
+    "valor": 1145.1
+  },
+  {
+    "voo": "H282W903",
+    "origem": "PMW",
+    "destino": "CGH",
+    "data_saida": "2019-02-17",
+    "saida": "09:40",
+    "chegada": "19:40",
+    "valor": 1199.58
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-17",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-17",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-17",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "W300U924",
+    "origem": "PLU",
+    "destino": "PMW",
+    "data_saida": "2019-02-17",
+    "saida": "06:40",
+    "chegada": "16:40",
+    "valor": 1196.67
+  },
+  {
+    "voo": "P243B976",
+    "origem": "BSB",
+    "destino": "VCP",
+    "data_saida": "2019-02-18",
+    "saida": "06:40",
+    "chegada": "19:40",
+    "valor": 948.46
+  },
+  {
+    "voo": "U264B986",
+    "origem": "BSB",
+    "destino": "AJU",
+    "data_saida": "2019-02-18",
+    "saida": "08:00",
+    "chegada": "15:40",
+    "valor": 745.58
+  },
+  {
+    "voo": "N207B980",
+    "origem": "BSB",
+    "destino": "FLN",
+    "data_saida": "2019-02-18",
+    "saida": "09:00",
+    "chegada": "19:20",
+    "valor": 1347.21
+  },
+  {
+    "voo": "X282B992",
+    "origem": "BSB",
+    "destino": "VIX",
+    "data_saida": "2019-02-18",
+    "saida": "07:20",
+    "chegada": "20:20",
+    "valor": 1009.67
+  },
+  {
+    "voo": "H219X969",
+    "origem": "VIX",
+    "destino": "CGH",
+    "data_saida": "2019-02-18",
+    "saida": "12:00",
+    "chegada": "13:00",
+    "valor": 106.25
+  },
+  {
+    "voo": "Z222X942",
+    "origem": "VIX",
+    "destino": "MCZ",
+    "data_saida": "2019-02-18",
+    "saida": "06:20",
+    "chegada": "16:40",
+    "valor": 1002.76
+  },
+  {
+    "voo": "L299X980",
+    "origem": "VIX",
+    "destino": "BEL",
+    "data_saida": "2019-02-18",
+    "saida": "06:00",
+    "chegada": "22:40",
+    "valor": 1067.36
+  },
+  {
+    "voo": "W200Z988",
+    "origem": "MCZ",
+    "destino": "PMW",
+    "data_saida": "2019-02-18",
+    "saida": "11:00",
+    "chegada": "13:20",
+    "valor": 222.74
+  },
+  {
+    "voo": "U270Z936",
+    "origem": "MCZ",
+    "destino": "PLU",
+    "data_saida": "2019-02-18",
+    "saida": "07:40",
+    "chegada": "12:40",
+    "valor": 384.38
+  },
+  {
+    "voo": "N201Z960",
+    "origem": "MCZ",
+    "destino": "FLN",
+    "data_saida": "2019-02-18",
+    "saida": "11:20",
+    "chegada": "23:00",
+    "valor": 860.42
+  },
+  {
+    "voo": "U245L931",
+    "origem": "BEL",
+    "destino": "PLU",
+    "data_saida": "2019-02-18",
+    "saida": "10:00",
+    "chegada": "18:00",
+    "valor": 1097
+  },
+  {
+    "voo": "B211L949",
+    "origem": "BEL",
+    "destino": "BSB",
+    "data_saida": "2019-02-18",
+    "saida": "09:40",
+    "chegada": "21:40",
+    "valor": 1141.5
+  },
+  {
+    "voo": "W299L976",
+    "origem": "BEL",
+    "destino": "PMW",
+    "data_saida": "2019-02-18",
+    "saida": "07:00",
+    "chegada": "13:40",
+    "valor": 851.39
+  },
+  {
+    "voo": "P212N917",
+    "origem": "FLN",
+    "destino": "VCP",
+    "data_saida": "2019-02-18",
+    "saida": "10:20",
+    "chegada": "17:40",
+    "valor": 572.92
+  },
+  {
+    "voo": "U261N908",
+    "origem": "FLN",
+    "destino": "AJU",
+    "data_saida": "2019-02-18",
+    "saida": "08:20",
+    "chegada": "19:00",
+    "valor": 1144.89
+  },
+  {
+    "voo": "H295N957",
+    "origem": "FLN",
+    "destino": "CGH",
+    "data_saida": "2019-02-18",
+    "saida": "06:40",
+    "chegada": "15:00",
+    "valor": 1130.9
+  },
+  {
+    "voo": "U207H952",
+    "origem": "CGH",
+    "destino": "AJU",
+    "data_saida": "2019-02-18",
+    "saida": "09:00",
+    "chegada": "18:40",
+    "valor": 645.25
+  },
+  {
+    "voo": "Z293H923",
+    "origem": "CGH",
+    "destino": "MCZ",
+    "data_saida": "2019-02-18",
+    "saida": "07:20",
+    "chegada": "14:00",
+    "valor": 523.06
+  },
+  {
+    "voo": "L248U962",
+    "origem": "AJU",
+    "destino": "BEL",
+    "data_saida": "2019-02-18",
+    "saida": "06:20",
+    "chegada": "18:20",
+    "valor": 1107.5
+  },
+  {
+    "voo": "H294U916",
+    "origem": "AJU",
+    "destino": "CGH",
+    "data_saida": "2019-02-18",
+    "saida": "09:20",
+    "chegada": "15:20",
+    "valor": 599.75
+  },
+  {
+    "voo": "B232U928",
+    "origem": "AJU",
+    "destino": "BSB",
+    "data_saida": "2019-02-18",
+    "saida": "06:00",
+    "chegada": "22:20",
+    "valor": 1186.21
+  },
+  {
+    "voo": "P250U946",
+    "origem": "AJU",
+    "destino": "VCP",
+    "data_saida": "2019-02-18",
+    "saida": "11:00",
+    "chegada": "14:40",
+    "valor": 422.58
+  },
+  {
+    "voo": "N266P900",
+    "origem": "VCP",
+    "destino": "FLN",
+    "data_saida": "2019-02-18",
+    "saida": "07:40",
+    "chegada": "16:20",
+    "valor": 1192.39
+  },
+  {
+    "voo": "U276P928",
+    "origem": "VCP",
+    "destino": "PLU",
+    "data_saida": "2019-02-18",
+    "saida": "08:40",
+    "chegada": "12:20",
+    "valor": 235.28
+  },
+  {
+    "voo": "U268P950",
+    "origem": "VCP",
+    "destino": "AJU",
+    "data_saida": "2019-02-18",
+    "saida": "10:40",
+    "chegada": "14:20",
+    "valor": 324.19
+  },
+  {
+    "voo": "N256W953",
+    "origem": "PMW",
+    "destino": "FLN",
+    "data_saida": "2019-02-18",
+    "saida": "10:00",
+    "chegada": "21:20",
+    "valor": 997.81
+  },
+  {
+    "voo": "P275W920",
+    "origem": "PMW",
+    "destino": "VCP",
+    "data_saida": "2019-02-18",
+    "saida": "07:00",
+    "chegada": "15:40",
+    "valor": 752.56
+  },
+  {
+    "voo": "L215W937",
+    "origem": "PMW",
+    "destino": "BEL",
+    "data_saida": "2019-02-18",
+    "saida": "10:20",
+    "chegada": "19:20",
+    "valor": 950.25
+  },
+  {
+    "voo": "Z247U904",
+    "origem": "PLU",
+    "destino": "MCZ",
+    "data_saida": "2019-02-18",
+    "saida": "11:40",
+    "chegada": "20:20",
+    "valor": 1095.25
+  },
+  {
+    "voo": "B233U977",
+    "origem": "PLU",
+    "destino": "BSB",
+    "data_saida": "2019-02-18",
+    "saida": "08:20",
+    "chegada": "13:00",
+    "valor": 599.47
+  },
+  {
+    "voo": "U240U930",
+    "origem": "PLU",
+    "destino": "AJU",
+    "data_saida": "2019-02-18",
+    "saida": "08:00",
+    "chegada": "16:00",
+    "valor": 776.67
+  }
+]
