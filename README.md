@@ -60,17 +60,25 @@ Criar uma API para Busca de Voos.
 ```json
 [
 	{
+		"origem": "GRU",
+		"destino": "LOA",
+		"saida": "YYYY-MM-DDTHH:mm:ss.sssZ",
+		"chegada": "YYYY-MM-DDTHH:mm:ss.sssZ",
 		"trechos": [
 			{
 				"origem": "GRU",
 				"destino": "NYC",
 				"saida": "YYYY-MM-DDTHH:mm:ss.sssZ",
+				"chegada": "YYYY-MM-DDTHH:mm:ss.sssZ",
+				"operadora": "UberAir",
 				"preco": 1400.00
 			},
 			{
 				"origem": "NYC",
 				"destino": "LOA",
 				"saida": "YYYY-MM-DDTHH:mm:ss.sssZ",
+				"chegada": "YYYY-MM-DDTHH:mm:ss.sssZ",
+				"operadora": "UberAir",
 				"preco": 350.00
 			}
 		]
