@@ -19,9 +19,11 @@ Criar uma API para Busca de Voos.
 **Premissas:**
 
 - A API deve ser em Java 8 / Kotlin com SpringBoot ou  C# com .NET Core.
-- Temos um [CSV da UberAir](uberair.csv) e um [JSON da 99Planes](99planes.json), ambos com uma lista de voos de cada operadora. Estes dois arquivos que serão a origem inicial dos dados. Eles estão na seguinte estrutura:
 - Não é necessário utilizar banco de dados.
+- Temos um [CSV da UberAir](uberair.csv) e um [JSON da 99Planes](99planes.json), ambos com uma lista de voos de cada operadora. Estes dois arquivos que serão a origem inicial dos dados.
+- Um arquivo [JSON dos aeroportos](aeroportos.json) disponíveis.
 - Os arquivos contém voos entre as data 10/02/2019 e 18/02/2019
+- Eles estão na seguinte estrutura:
 
 **UberAir**
 
@@ -49,7 +51,6 @@ Criar uma API para Busca de Voos.
 
 **Objetivo:**
 - Precisamos de 1 (um) endpoint em REST que receba o `Aeroporto de Origem`, `Aeroporto de Destino` e `Data do voo` e nos retorna um JSON com todos os voos disponíveis das duas operadoras (UberAir e 99Planes) obedecendo os critérios da busca, ordenados por horário.
-
 - Precisamos de 1 (um) endpoint em REST que nos retorne a lista de todos os aeroportos para o Frontend poder utilizar para popular um SelectBox.
 - Escalas de voo devem ser exibidas desde que o horário entre os dois voos (o tempo de espera) sejam inferiores a 12h. 
 - O número máximo de escalas fica a seu critério.
