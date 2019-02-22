@@ -114,13 +114,13 @@ Criar um SPA (Single Page Aplication) para Busca de Voos.
 - Temos uma API que pode ser acessada no link `http://api-voadora.tegra.com.br`.
 - A lista de aeroportos se encontra é um GET da URL `https://api-voadora.dev.tegra.com.br/flight/companies`.
 - A lista de voos por dia é um POST na `https://api-voadora.dev.tegra.com.br/flight`, com o Body seguinto este padrão em Json:
-``json
+```json
 {
 	"from": "BSB",
 	"to": "VCP",
 	"date": "2019-02-10"
 }
-``
+```
 
 **Objetivo:**
 
