@@ -111,12 +111,20 @@ Criar um SPA (Single Page Aplication) para Busca de Voos.
 
 **Premissas:**
 - O Projeto deve ser feito em React.
-- Temos uma API que pode ser acessada no link `http://api-voadora.tegra.com.br`. Você pode acessa-la e ter acesso a documentação detalhada da mesma.
+- Temos uma API que pode ser acessada no link `http://api-voadora.tegra.com.br`.
+- A lista de aeroportos se encontra é um GET da URL `https://api-voadora.dev.tegra.com.br/flight/companies`.
+- A lista de voos por dia é um POST na `https://api-voadora.dev.tegra.com.br/flight`, com o Body seguinto este padrão em Json:
+``json
+{
+	"from": "BSB",
+	"to": "VCP",
+	"date": "2019-02-10"
+}
+``
 
 **Objetivo:**
 
 - Precisamos de uma tela onde o usuário possa selecionar o `Aeroporto de Origem`, `Aeroporto de Destino`, `Data de Saída`, através de Dropdowns ou Pickers.
-
 - Será necessário após a busca, exibir a lista de voos, sejam eles diretos ou com escalas.
 - Será necessário poder ordenar por Preço Total ou por Tempo Total de voo.
 - É responsabilidade do Frontend calcular o preço total e o tempo total de voo, considerando as esperas entre as escalas.
