@@ -121,6 +121,7 @@ Criar um SPA (Single Page Aplication) para Busca de Voos.
 	"date": "2019-02-10"
 }
 ```
+- Importante: Só existem dados na API do intervalo do dia 10/02/2019 ao dia 18/02/2019
 
 **Objetivo:**
 
