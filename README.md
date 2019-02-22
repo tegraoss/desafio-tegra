@@ -112,8 +112,8 @@ Criar um SPA (Single Page Aplication) para Busca de Voos.
 **Premissas:**
 - O Projeto deve ser feito em React.
 - Temos uma API que pode ser acessada no link `http://api-voadora.tegra.com.br`.
-- A lista de aeroportos se encontra é um GET da URL `https://api-voadora.dev.tegra.com.br/flight/companies`.
-- A lista de voos por dia é um POST na `https://api-voadora.dev.tegra.com.br/flight`, com o Body seguinto este padrão em Json:
+- A lista de aeroportos pode ser obtida com um GET da URL `https://api-voadora.dev.tegra.com.br/flight/companies`.
+- A lista de voos por dia é um POST na `https://api-voadora.dev.tegra.com.br/flight`, com o Body seguindo este padrão em Json:
 ```json
 {
 	"from": "BSB",
