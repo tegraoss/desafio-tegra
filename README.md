@@ -91,8 +91,7 @@ Criar uma API para Busca de Voos.
 
 Caso deseje, você pode adicionar dependencias ou outros recursos que julgar necessário em seu código. Abaixo temos alguns exemplos, mas não fique limitado a eles:
 
-- Testes de Stress
-- Banco de Dados
+- Documentação da API (Swagger, etc)
 - Cache
 - Docker
 
